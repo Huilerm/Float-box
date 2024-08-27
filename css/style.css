@@ -1,0 +1,36 @@
+p{
+    font-size: small;
+}
+.container{
+    border:2px solid #f4f4f4;
+    background-color: #f4f4f4;
+    padding-top: 10px;
+    padding-left: 45px;
+    padding-bottom: 10px;
+    width: 800px;
+}
+.foto1 img{
+    width: 250px;
+    height: 200px;
+    border-radius: 10px;
+}
+.foto1{
+    width: 300px;
+    height: 200px;
+    float: left;
+}
+.foto2 img{
+    width: 250px;
+    height: 200px;
+    border-radius: 10px;
+}
+.foto2{
+    width: 300px;
+    height: 200px;
+    float: right;
+}
+.texto1{
+}
+.texto2{
+
+}
